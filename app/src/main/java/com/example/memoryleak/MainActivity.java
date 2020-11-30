@@ -15,6 +15,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         
         new DownloadTask(this).start();
+        // changes done
+
 
     }
 
